@@ -1,0 +1,2 @@
+# Deep Learning applied to Graph Theory
+Within the scope of a larger project, this notebook explores the capabilities of using deep learning in the domain of graph theory in order to optimise the positions of nodes an edges.
